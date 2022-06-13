@@ -1,6 +1,6 @@
 # Knight of Craina
 
-Unity game made with Edis(https://github.com/ediszatega).<br>
+Unity game made with Edis (https://github.com/ediszatega).<br>
 I did the work on the player, enemies, combat and audio.<br>
 You play as a knight climbing a tower to save the princess on the top.<br>
 On each level you fight enemies before progressing forward.<br>
