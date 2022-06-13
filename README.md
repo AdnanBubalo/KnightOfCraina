@@ -13,3 +13,4 @@ Items in the shop include:
 - a speed upgrade<br>
 - a fireball that allows you to shoot fireballs<br>
 - an iceball that allows you to shoot iceballs<br>
+I plan on polishing the combat, adding more enemies, a final boss and other things that I think off.
