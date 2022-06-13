@@ -143,7 +143,7 @@ namespace PlayerScripts
 
                 if (currentShield != 0)
                 {
-                    GetComponent<DamageFlash>().FlashStart(Color.green);
+                    GetComponent<DamageFlash>().FlashStart(Color.yellow);
                     currentShield -= dmg;
                     if (currentShield < 0)
                         currentShield = 0;

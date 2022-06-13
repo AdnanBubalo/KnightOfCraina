@@ -137,7 +137,7 @@ public class GameManager : MonoBehaviour
                 StartCoroutine(this.Delay(1f, () =>
                 {
                     Time.timeScale = 0;
-                    DeathPopUpUI.Instance.SetTitle("CONGRATULATIONS YOU'VE WON\n But the princess is another tower").Show();
+                    DeathPopUpUI.Instance.SetTitle("CONGRATULATIONS YOU'VE WON\n But the princess is in another tower").Show();
                 }));
             }
 
